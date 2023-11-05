@@ -49,10 +49,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   background-image: url("../../assets/LogoSirio.png");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: bottom;
   background-size: contain;
   width: 100%;
 }
