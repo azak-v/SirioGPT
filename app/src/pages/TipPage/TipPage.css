@@ -7,7 +7,7 @@
 }
 
 #TipPageImg {
-  width: 90%;
+  width: 70%;
   max-width: 500px;
 }
 
@@ -74,5 +74,8 @@
 @media screen and (max-width: 600px) {
   .TipPageSliderContent {
     font-size: 16px;
+  }
+  #SwipeButton {
+    width: 45px;
   }
 }
