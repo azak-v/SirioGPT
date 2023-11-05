@@ -11,3 +11,10 @@
 body {
   overflow: hidden;
 }
+
+html,
+body,
+#root,
+.App {
+  height: 100%;
+}

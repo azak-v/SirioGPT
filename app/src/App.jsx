@@ -14,8 +14,6 @@ function App() {
           <Route path="/SirioGPT" element={<SirioGPT />}></Route>
         </Routes>
       </Router>
-      <Home />
-      {/* <SirioGPT /> */}
     </div>
   );
 }
