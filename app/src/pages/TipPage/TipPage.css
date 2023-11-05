@@ -70,3 +70,9 @@
   font-weight: 600;
   border-radius: 15px;
 }
+
+@media screen and (max-width: 600px) {
+  .TipPageSliderContent {
+    font-size: 16px;
+  }
+}
