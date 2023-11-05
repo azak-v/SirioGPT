@@ -1,0 +1,28 @@
+#MainSirioContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+#MessagesContainer {
+  padding: 15px;
+  padding-right: 0px;
+}
+#SirioContainer {
+  max-width: 800px;
+}
+
+#SirioMessage {
+  display: flex;
+  align-items: center;
+}
+#SirioMessage img {
+  max-width: 50px;
+  border-radius: 500px;
+  margin-right: 10px;
+}
+
+.fa-paperclip {
+  display: none;
+}

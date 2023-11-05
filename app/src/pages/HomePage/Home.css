@@ -1,0 +1,49 @@
+#pagesContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mainContent {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 5px solid blue; */
+}
+
+#homePageImg {
+  width: 100%;
+  max-width: 500px;
+}
+#pageTitle {
+  margin-top: 50px;
+  color: rgb(0, 114, 163);
+}
+#pageContent {
+  margin-top: 25px;
+  color: rgb(131, 132, 133);
+  text-align: center;
+  width: 70%;
+  font-size: 24px;
+}
+.startButton {
+  cursor: pointer;
+  margin-top: 25px;
+  width: 70%;
+  height: 7%;
+  color: white;
+  background-color: var(--main-green-color);
+  border: none;
+  font-size: 24px;
+  font-weight: 600;
+  border-radius: 15px;
+}
+
+#logoSirio {
+  width: 100vw;
+  max-width: 500px;
+  height: 100%;
+}
