@@ -52,8 +52,9 @@
   border: 2px solid red;
   background-image: url("../../assets/LogoSirio.png");
   background-repeat: no-repeat;
+  background-position: bottom;
   background-size: contain;
-  width: 35%;
+  width: 100%;
 }
 #logoSirio {
   width: 100%;
