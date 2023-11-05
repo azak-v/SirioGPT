@@ -7,7 +7,7 @@
 }
 
 .mainContent {
-  height: 90%;
+  /* height: 90%; */
   border: 2px solid red;
   display: flex;
   flex-direction: column;
@@ -41,6 +41,7 @@
   font-size: 24px;
   font-weight: 600;
   border-radius: 15px;
+  padding: 15px;
 }
 .logo {
   /* width: 10%; */
