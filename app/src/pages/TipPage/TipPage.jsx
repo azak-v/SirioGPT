@@ -93,12 +93,7 @@ function TipPage() {
       <div className="tipPageButton">
         {currentSlide === 2 ? (
           <Link to="SirioGPT">
-            <button
-              onClick={() => setCurrentPage("tipPage")}
-              className="startChatButton"
-            >
-              Começar conversa!
-            </button>
+            <button className="startChatButton">Começar conversa!</button>
           </Link>
         ) : (
           <img
