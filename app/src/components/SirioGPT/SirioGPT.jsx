@@ -12,7 +12,7 @@ import {
   TypingIndicator,
 } from "@chatscope/chat-ui-kit-react";
 
-const API_KEY = process.env.REACT_APP_API_GPT_KEY;
+const API_KEY = import.meta.env.VITE_REACT_API_GPT_KEY;
 
 function SirioGPT() {
   const [typing, setTyping] = useState(false);
