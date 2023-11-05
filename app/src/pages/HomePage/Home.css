@@ -50,6 +50,10 @@
   align-items: center;
   justify-content: center;
   border: 2px solid red;
+  background-image: url("../../assets/LogoSirio.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 35%;
 }
 #logoSirio {
   width: 100%;

@@ -48,7 +48,7 @@ function Home() {
         <TipPage />
       )}
       <div className="logo">
-        <img id="logoSirio" src={LogoSirio} alt="" />
+        {/* <img id="logoSirio" src={LogoSirio} alt="" /> */}
       </div>
     </div>
   );
